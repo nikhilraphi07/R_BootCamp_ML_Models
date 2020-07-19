@@ -43,7 +43,7 @@ pl3 <- pl3 + geom_point(position=position_jitter(w=1, h=0),aes(color=temp), alph
 pl3 <- pl3 + scale_color_gradientn(colors = c('dark blue', 'blue', 'light blue', 'light green', 'yellow', 'orange', 'red'))
 print(pl3 + theme_bw())
 
-# Build Model
+# Build Machine Learning Model
 model <- lm(count ~ . -casual -registered -datetime - atemp ,bike)
 print(summary(model))
 
