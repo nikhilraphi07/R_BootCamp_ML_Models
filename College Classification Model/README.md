@@ -1,4 +1,4 @@
-# Tree Based Regression Model (To predict whether College is Private or Public)
+# Tree Based Regression Model 
 
 
 ![College](https://i.ibb.co/sjR99Lr/public-private-sector.jpg)
