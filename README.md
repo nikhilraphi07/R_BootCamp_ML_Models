@@ -1,6 +1,6 @@
 ## Machine Learning Models in R
 
-![Employee Attrition](https://i.ibb.co/qsr1gj7/c86829391091-1-1024x500.jpg)
+![Employee Attrition](https://i.ibb.co/hLpRJ2b/Future-technology-concept-with-person-using-a-laptop-computer.jpg)
 
 
 This repositary contains all the models implemented along with their documentation, code and the datasets used inorder to replicate those Models
