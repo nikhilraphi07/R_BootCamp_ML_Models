@@ -36,7 +36,7 @@ for (i in 1:10){
   error.rate[i] <- mean(test$Species != predicted.species)
 }
 
-## PLot this out for the Elbow Method
+## PLot this out for the Elbow Method to get the optimal K Value
 
 library(ggplot2)
 k.values <- 1:10
