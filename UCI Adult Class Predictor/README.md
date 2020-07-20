@@ -1,4 +1,4 @@
-# Logistic Regression Model (To predict the Class to which a person belongs)
+# Logistic Regression Model (To predict the User's Class)
 
 
 ![Dog vs Cat](https://i.ibb.co/fXSZ1yc/TCS-Illustration-31.jpg)
