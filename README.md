@@ -10,3 +10,4 @@ This is part of the BootCamp course and all the models are implemented in R
 - Bike Share Demand Predictor
 - UCI Adult Class Predictor
 - Flower Species Classifier
+- College Classification Model
