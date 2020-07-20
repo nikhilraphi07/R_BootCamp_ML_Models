@@ -58,7 +58,7 @@ joiner <- function(x){
 tree.preds$Private <- sapply(tree.preds$Yes, joiner)
 print(head(tree.preds))
 
-## Confusion Matrix
+## Plot Confusion Matrix
 table(tree.preds$Private,test$Private)
 
 ## Use the rpart.plot library and the prp() function to plot our tree model.
