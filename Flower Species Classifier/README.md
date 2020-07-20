@@ -1,4 +1,4 @@
-# KNN Model (To predict the FLower Species)
+# KNN Model (To predict the Flower Species)
 
 
 ![Flower Species](https://i.ibb.co/vDbRX20/New-Item167.png)
