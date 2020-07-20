@@ -159,7 +159,7 @@ model = glm(as.factor(income) ~ ., family = binomial(logit), data = train)
 new.step.model <- step(model)
 
 
-## Lets create the confusion matrix
+## Lets create the confusion matrix now
 print("Confusion Matrix")
 test$predicted.income <- predict(model, newdata = test, type = 'response')
 print(table(test$income,test$predicted.income > 0.5))
